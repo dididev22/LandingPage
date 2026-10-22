@@ -1,0 +1,6 @@
+# Regras básicas para robôs de mecanismos de busca.
+User-agent: *
+Allow: /
+
+# Substitua pelo endereço público real depois de publicar o site.
+Sitemap: https://SEU-DOMINIO.com/sitemap.xml
